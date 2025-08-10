@@ -13,6 +13,8 @@ from .templates.random_agent import Random
 from .templates.reasoning_agent import ReasoningAgent
 from .templates.smolagents import SmolCodingAgent, SmolVisionAgent
 
+from .blind_squirrel import BlindSquirrel
+
 load_dotenv()
 
 AVAILABLE_AGENTS: dict[str, Type[Agent]] = {
@@ -46,4 +48,5 @@ __all__ = [
     "Recorder",
     "Playback",
     "AVAILABLE_AGENTS",
+    "BlindSquirrel"
 ]
