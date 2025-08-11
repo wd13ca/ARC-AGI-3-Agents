@@ -1,6 +1,6 @@
 # ARC-AGI-3 Preview Competition Entry
 
-This repo is an entry to the [ARC-AGI-3 Preview Competition](https://arcprize.org/competitions/arc-agi-3-preview-agents/). It forks the [ARC-AGI-3-Agents repo](https://github.com/arcprize/ARC-AGI-3-Agents). 
+This is an entry to the [ARC-AGI-3 Preview Competition](https://arcprize.org/competitions/arc-agi-3-preview-agents/). It is a branch of the [ARC-AGI-3-Agents repo](https://github.com/arcprize/ARC-AGI-3-Agents). 
 
 **Leadboard Name**  
 wd13  
@@ -20,10 +20,10 @@ Will Dick
    curl -LsSf https://astral.sh/uv/install.sh | sh
    ```
 
-2. Clone the this repo repo.
+2. Clone the this repo branch.
    
    ```bash
-   git clone https://github.com/wd13ca/ARC-AGI-3-Agents.git
+   git clone --branch blindsquirrel https://github.com/wd13ca/ARC-AGI-3-Agents.git
    ```
 
 3. Enter the directory.
