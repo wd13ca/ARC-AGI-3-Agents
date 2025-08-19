@@ -1,15 +1,8 @@
-# ARC-AGI-3 Preview Competition Entry
+# 🐿️ Blind Squirrel Agent
 
-This is an entry to the [ARC-AGI-3 Preview Competition](https://arcprize.org/competitions/arc-agi-3-preview-agents/). It is a branch of the [ARC-AGI-3-Agents repo](https://github.com/arcprize/ARC-AGI-3-Agents). 
+#### 🥈 2nd Place Winner - [ARC-AGI-3 Preview Competition](https://arcprize.org/blog/arc-agi-3-preview-30-day-learnings)
 
-**Leadboard Name**  
-wd13  
-
-**Agent Name**  
-Blind Squirrel  
-
-**Developer**  
-Will Dick  
+#### 🔧 Developed by Will Dick
 
 
 ## How to Run
@@ -20,7 +13,7 @@ Will Dick
    curl -LsSf https://astral.sh/uv/install.sh | sh
    ```
 
-2. Clone the this repo branch.
+2. Clone this repo branch.
    
    ```bash
    git clone --branch blindsquirrel https://github.com/wd13ca/ARC-AGI-3-Agents.git
